@@ -30,7 +30,7 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="Keto-Light.html" data-home-page-title="Keto Light" class="u-body u-xl-mode"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-2d2f"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="http://tl-track.com/tracker/sXA?sub_id=ntun20002" class="u-image u-logo u-image-1" data-image-width="148" data-image-height="150" title="Keto Light">
+        <a href="http://tl-track.com/tracker/sZg?utm_source=googleads1" class="u-image u-logo u-image-1" data-image-width="148" data-image-height="150" title="Keto Light">
           <img src="images/logoketo.PNG" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -42,14 +42,14 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="http://tl-track.com/tracker/sXA?sub_id=ntun20002" style="padding: 10px 20px;">ORDINARE</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="http://tl-track.com/tracker/sZg?utm_source=googleads1" style="padding: 10px 20px;">RENDELÉS</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://tl-track.com/tracker/sXA?sub_id=ntun20002">ORDINARE</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://tl-track.com/tracker/sZg?utm_source=googleads1">RENDELÉS</a>
 </li></ul>
               </div>
             </div>
@@ -62,15 +62,15 @@
         <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout" style="">
             <div class="u-layout-row" style="">
-              <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="500" data-image-height="361" data-href="http://tl-track.com/tracker/sXA?sub_id=ntun20002">
+              <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="500" data-image-height="361" data-href="http://tl-track.com/tracker/sZg?utm_source=googleads1">
                 <div class="u-container-layout u-valign-middle u-container-layout-1" src=""></div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-palette-1-base u-right-cell u-size-30 u-size-xs-60 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
                   <h2 class="u-text u-text-default u-text-1"> Keto&nbsp;Light </h2>
-                  <p class="u-text u-text-2"> Per coloro che non sono abituati a contare le calorie<br>Nuovo prezzo: <br> 39€&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+                  <p class="u-text u-text-2">  Azok számára, akik nem szoktak számolni a kalóriát <br>Új ár: <br> 10300Ft&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
                   </p>
-                  <a href="http://tl-track.com/tracker/sXA?sub_id=ntun20002" class="u-border-none u-btn u-button-style u-hover-palette-1-dark-1 u-palette-4-dark-1 u-btn-1"> ORDINARE </a>
+                  <a href="http://tl-track.com/tracker/sZg?utm_source=googleads1" class="u-border-none u-btn u-button-style u-hover-palette-1-dark-1 u-palette-4-dark-1 u-btn-1"> RENDELÉS! </a>
                 </div>
               </div>
             </div>
@@ -80,17 +80,17 @@
     </section>
     <section class="u-clearfix u-section-2" id="sec-26ea">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-align-center u-image u-image-1" src="images/1.PNG" data-image-width="1271" data-image-height="558" data-href="http://tl-track.com/tracker/sXA?sub_id=ntun20002">
+        <img class="u-align-center u-image u-image-1" src="images/1.PNG" data-image-width="1271" data-image-height="558" data-href="http://tl-track.com/tracker/sZg?utm_source=googleads1">
       </div>
     </section>
     <section class="u-clearfix u-section-3" id="sec-7786">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-align-center u-image u-image-default u-image-1" src="images/2.PNG" alt="" data-image-width="1178" data-image-height="830" data-href="http://tl-track.com/tracker/sXA?sub_id=ntun20002">
+        <img class="u-align-center u-image u-image-default u-image-1" src="images/2.PNG" alt="" data-image-width="1178" data-image-height="830" data-href="http://tl-track.com/tracker/sZg?utm_source=googleads1">
       </div>
     </section>
     <section class="u-clearfix u-section-4" id="sec-7a9c">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="http://tl-track.com/tracker/sXA?sub_id=ntun20002" class="u-border-none u-btn u-button-style u-hover-palette-1-dark-1 u-palette-4-dark-1 u-btn-1"> ORDINARE!</a>
+        <a href="http://tl-track.com/tracker/sZg?utm_source=googleads1" class="u-border-none u-btn u-button-style u-hover-palette-1-dark-1 u-palette-4-dark-1 u-btn-1"> RENDELÉS!</a>
       </div>
     </section>
     
